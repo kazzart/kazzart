@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%d0%b0%d0%bd%d0%b0%d1%81%d1%82%d0%b0%d1%81-%d0%bc%d0%b8%d1%81%d0%b0%d0%b8%d0%bb%d0%b8%d0%b4%d0%b8-298701282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d0%b0%d0%bd%d0%b0%d1%81%d1%82%d0%b0%d1%81-%d0%bc%d0%b8%d1%81%d0%b0%d0%b8%d0%bb%d0%b8%d0%b4%d0%b8-298701282/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anastas-misailidi-298701282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anastas-misailidi-298701282/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13198053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13198053" height="30" width="40" /></a>
 <a href="https://kaggle.com/kazzart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kazzart" height="30" width="40" /></a>
 <a href="https://instagram.com/22kazzart22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="22kazzart22" height="30" width="40" /></a>
